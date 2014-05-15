@@ -48,8 +48,8 @@
 	</dict>
 	<key>collectionsSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {285, 101}}</string>
-		<string>{{0, 102}, {285, 486}}</string>
+		<string>{{0, 0}, {273, 101}}</string>
+		<string>{{0, 102}, {273, 486}}</string>
 	</array>
 	<key>collectionsTabListIsCollapsed</key>
 	<false/>
@@ -111,8 +111,8 @@
 	<integer>1</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {766, 585}}</string>
-		<string>{{767, 0}, {227, 585}}</string>
+		<string>{{0, 0}, {778, 585}}</string>
+		<string>{{779, 0}, {227, 585}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>201</real>
@@ -1111,7 +1111,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 793.5}, {751, 539}}</string>
+	<string>{{0, 793.5}, {763, 539}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{2673, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>

@@ -45,7 +45,7 @@ Your e-mail address
 
 (Your agent’s name)
 (Your agent’s address)
-&lt;$wc100&gt; words.
+&lt;$wc100> words.
 
 
 
@@ -56,12 +56,12 @@ Your e-mail address
 
 
 
-&lt;$PROJECTTITLE&gt;
+&lt;$PROJECTTITLE>
 
-by &lt;$fullname&gt;</Text>
+by &lt;$fullname></Text>
             <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
 
-The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
+The &lt;$PROJECTTITLE> and &lt;$fullname> tags get replaced with the information set in Project > Meta-Data Settings… > Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
         </Document>
         <Document ID="98">
             <Title>Birth </Title>
@@ -189,24 +189,24 @@ I suppose if we are to murder the past we should choose a specific part- that se
             <Text>NOVEL WITH PARTS
 
 About This Template
-By default, when compiled (File &gt; Compile), this project will generate a document in the standard manuscript format for novels. The necessary settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle e-book.
+By default, when compiled (File > Compile), this project will generate a document in the standard manuscript format for novels. The necessary settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle e-book.
 
 How To Use This Template
 	•	Create a new folder for each part of your novel as direct subdocuments of the Manuscript folder. Two  folders have already been created at this level for you, with the placeholder title “Part”. You should rename these with the titles of the parts of your novel. For instance, Milan Kundera’s The Unbearable Lightness of Being’s first part is entitled “PART ONE: Lightness and Weight”. In that example, you would name the part, “Lightness and Weight” (the “Part One” will be added during Compile). You can choose not to include these titles during the Compile process.
 	•	Create a new folder for each chapter inside the relevant “Part” folder and title each folder with the name of the chapter. If you don’t intend to use chapter names, just use something descriptive that tells you what the chapter is about. (You do not need to title the folders “Chapter One” and so on, as chapter numbering will be taken care of automatically during the Compile process.) Some chapter folders have been created for you with the placeholder title “Chapter”.
 	•	Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)
-	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
-	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way. Alternatively, you can just click “Add”, or hit cmd-N, with the Characters or Places folders selected.
+	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents > Change Icon feature.)
+	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template > Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way. Alternatively, you can just click “Add”, or hit cmd-N, with the Characters or Places folders selected.
 
 Compiling
 	•	Title pages and front matter are all provided in the “Front Matter” folder (between the “Places” and “Research” folders). You will choose different front matter depending on the format to which you are compiling.
-	•	Scrivener remembers your compile settings, so you only need to follow the instructions below when you want to compile to a different format. After that, you can just go to File &gt; Compile… and click the “Compile” button straight away.
+	•	Scrivener remembers your compile settings, so you only need to follow the instructions below when you want to compile to a different format. After that, you can just go to File > Compile… and click the “Compile” button straight away.
 	•	Note that if you cannot find any of the presets mentioned below in the “Format As” menu in the Compile panel, please select “Manage Compile Format Presets…” from the bottom of the “Format As” menu. This will bring up a panel that allows you to add more formats to the menu.
 	•	Tip: You can open this document in a QuickReference panel and have it open alongside the Compile panel if you need to refer to these instructions while compiling.
 
 		To compile to standard manuscript format:
 	◦	Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information (note that it will have been filled in by default with information from Address Book).
-	◦	Go to File &gt; Compile…
+	◦	Go to File > Compile…
 	◦	Select “Standard Manuscript Format (with Parts)” from the “Format As” pop-up button if it is not already selected. (If “Novel (with Parts)” is selected, that’s fine too - that’s just the default format for this particular template, which is the same as standard manuscript format.)
 	◦	Ensure that the “Summary” tab is selected at the top of the Compile panel. (This isn’t strictly necessary—the below options can also be found in the “Contents” pane of the “All Options” tab.)
 	◦	Ensure that the “Add front matter” button is ticked and select the “Manuscript Format” folder from the pop-up button next to it (this is already selected by default).
@@ -214,7 +214,7 @@ Compiling
 
 		To compile to paperback PDF format:
 	◦	Edit the front matter pages contained inside the Front Matter/Paperback Novel folder.
-	◦	Go to File &gt; Compile…
+	◦	Go to File > Compile…
 	◦	Select “Paperback Novel (with Parts)” from the “Format As” pop-up button if it is not already selected.
 	◦	Ensure that the “Summary” tab is selected at the top of the Compile panel. (This isn’t strictly necessary—the below options can also be found in the “Contents” pane of the “All Options” tab.)
 	◦	Ensure that the “Add front matter” button is ticked and select the “Paperback Novel” folder from the pop-up button next to it if it is not already selected.
@@ -223,7 +223,7 @@ Compiling
 		To compile to e-book format:
 	◦	Edit or remove the dedication page contained inside the Front Matter/E-Book folder. Feel free to add any other front matter documents as required.
 	◦	Import a cover image (the recommended size is 600x800 pixels, preferably in JPG or PNG format). You can store this anywhere, but it makes sense to place it in the “E-Book” front matter folder. A placeholder cover image is already provided - you will want to delete that once you have imported your own.
-	◦	Go to File &gt; Compile…
+	◦	Go to File > Compile…
 	◦	Select “E-book (with Parts)” from the “Format As” pop-up button if it is not already selected.
 	◦	Ensure that the “Summary” tab is selected at the top of the Compile panel. (This isn’t strictly necessary—the below options can also be found in the “Contents”, “Cover” and “Layout” panes of the “All Options” tab.)
 	◦	If you have front matter documents other than the cover image, ensure that the “Add front matter” button is ticked and select the “E-Book” folder from the pop-up button next to it if it is not already selected. If you don’t have any front matter documents, you can un-tick “Add front matter”. (Un-ticking this does not affect the cover image.)
@@ -234,16 +234,16 @@ Compiling
 
 Making Changes
 There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
-	•	Project and author name: The default book title and author name used in headers and elsewhere can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
-	•	Part subtitles: If you don’t want to include the titles of your “Part” folders in your compiled manuscript, go to the “Formatting” pane in the Compile sheet and deselect “Title” for the “Level 1” folder item. Then click on “Section Layout…” and remove the colon and space at the end of the title prefix (“Part &lt;$t:part&gt;”).
+	•	Project and author name: The default book title and author name used in headers and elsewhere can be customised by going to Project > Meta-Data Settings… and choosing the “Project Properties” tab.
+	•	Part subtitles: If you don’t want to include the titles of your “Part” folders in your compiled manuscript, go to the “Formatting” pane in the Compile sheet and deselect “Title” for the “Level 1” folder item. Then click on “Section Layout…” and remove the colon and space at the end of the title prefix (“Part &lt;$t:part>”).
 	•	Chapter subtitles: If you don’t want to include the names of your chapter folders below the chapter numbering text in the compiled document, go to the “Formatting” pane in the Compile sheet and deselect “Title” for the “Level 2+” folder item and the “Level 1” and “Level 2” text items. (Conversely, if you do want to include chapter titles for formats that don’t include them by default, tick these items.)
 	•	Page header and footer: You can edit the page header in the “Page Settings” pane of the Compile sheet (under “All Options”).
 	•	Page size: The “Paperback Novel (with Parts)” format is set to export to a page size of 5.06” x 7.81”, which is one of the formats you can use with CreateSpace. You can customise this by clicking on the “Page Setup…” button in the “Page Settings” pane of Compile.
 	•	Font: You can use “Quick Font Override” in Compile to change the font used throughout the final document (this is available from both the “Summary” and “All Options” tabs). Note that fonts are not included in e-books, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a particular font in an e-book).
 	•	Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
-	1.	To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+	1.	To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents > Change Icon to choose a different icon.
 	2.	To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
-	3.	To set things up so that when the special folder created in (1) is selected and you hit “Add”, a new document based on the one you set up in (2) is created, select the folder and go to Documents &gt; Default New Subdocument Type and select the special template document you created.
+	3.	To set things up so that when the special folder created in (1) is selected and you hit “Add”, a new document based on the one you set up in (2) is created, select the folder and go to Documents > Default New Subdocument Type and select the special template document you created.
 	•	Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
 	1.	Rename the “Scene” documents to use your chapter titles and move them so that they are contained directly inside the “Part” folders (that is, at the same level as the current “Chapter” folders).
 	2.	Move the chapter folders to the Trash.
@@ -255,7 +255,7 @@ Sample Documents
 The “Sample Output” folder inside the Research folder contains examples of documents that have been created by compiling from this template. “Standard Manuscript” shows the results when compiling to “Standard Manuscript Format (with Parts)”; “Paperback Novel” shows the results when compiling to “Paperback Novel (with Parts)” format; and “iBooks E-book” shows the results when compiling to “E-book (with Parts)” format and opening the resulting EPUB file in iBooks on the iPad.
 
 Final Note
-Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File > Save As Template.</Text>
         </Document>
         <Document ID="99">
             <Title>School </Title>
@@ -347,7 +347,61 @@ Where does this happen- </Text>
         </Document>
         <Document ID="111">
             <Title>School</Title>
-            <Text>This is the moment tat she starts to understand the role of the crazy making that John Z Ellenbogen is putting down. She at first has some problems getting people to believe her, but her Piratography skills help her to convince people and get them to support her </Text>
+            <Text>Things that can go terribly wrong 
+Disease
+Machinery falls doen 
+Power plants decy\a
+Civil war
+
+
+
+
+
+
+This is the moment tat she starts to understand the role of the crazy making that John Z Ellenbogen is putting down. She at first has some problems getting people to believe her, but her Piratography skills help her to convince people and get them to support her 
+
+
+They came down the stairs to look at the new world that just augmented the old one. 
+
+It as not what was expected. Shocker. 
+
+The priuses and bikes now shared the road with  horse drawn carts and wagons with wheels that usually were only used as chandeliers in the mid range steak houses. Their iron casings rang on the cobbles, causing the usual city music to be a cacophony that had minor and major wind chime notes going through it.
+
+No one seemed to notice. There was no confusion on the faces of the people s they continues through their day. There were still bikes of shiny metal next to pennyfarthjings and bikes that looked as though they had been built by some Mad Maxmillian , throwing showers of sparks as they went about their day. 
+
+
+Lea and Ben looked at each other, and and shrugged, 
+
+Ben said "Well, at least we get to keep the cars.  Half of SW is gone tho. "
+
+Lea looked up and the huge pink skyscraper that tended to house the Ellenbogen space was replaced by an ornate victorian that covered the same footage, but more closely resembled the Addams family house in a shade of shocking pink that would make Danielle Steele blush. The gables and the fretwork were a deep purple that thrw the blush of it into sharp relief. The windows were all open, and a sound she could not quite identify issued from behind the wavery lace curtains. 
+
+Since she had a meeting with Mr. E at 2 there, she decided that the only way this was going to be viable was to accept this as bizarre and continue forward 
+Ben came to the same conclusion, as he was a pragmatist- it was what bonded the two of them most closely, their view of the world as something to be dealt with as it was, not as they wished it would be. 
+
+
+They went upstairs, finished their coffee and checked to see if their were still phone use. There was, and they kissed goodbye and went their separate ways, planning to meet later and discuss what happened during the day. 
+
+Lea had put her Piratologist outfit on- it consisted of a pith helmet and suit that would bot have been out of place in the deepest jungles of Africa, circa 1890. Given the changes of today, she figured this might actually be a better thng. SOmetimes her piratology was regarded as quack science, especially by the ducks, Her view was that everything old is new again, so she basically went back through history to utilize what happened in the past 200 years to solve the problems of today 
+
+Piratology for the cause of urban renewal swashbuckled it's ay through the world. It looked at the problems of homelessness, hunger, social justice and theft as the normal outgrowth of a nuturing society. Since these problems were complex and fraught with confusing, Piratical practitioners used swords, cannons and the occassional plank to get get the world to step to the proper tune. 
+
+Mr Ellenbogen was a target for this- his lack of care for the health of the planet was problematic because there was nothing that stopped people from polluting things, and destroying the earth around them with their crap. Tossing shit into a dumpster, and then dumping it somewhere close to where people lived was acceptable somehow. 
+
+She had become a Piratologist because she was tired of watching teh world her children would live in slowly degenerate. She knew that the only way to fix the future as to go past the past, and change the way that things worked. This was no mean feat, give the amount of terrible things that the corporations were willing to do in the service of the almighty dollar. </Text>
+        </Document>
+        <Document ID="80">
+            <Title>Buddhist Bike </Title>
+            <Text>The bike was long and lean and hugged the curb as though it had grown there. The floweres threaded through it's spokes were unrra as was the shade of bright vermillion it was enamelled with. It stood high and proud next to the curb, a helmet hanging off the left handle bar. The locks that secured it to the fence werre intricate- made of iridescent clam shells they winked at him in complicity, knowing they weere going for a ride. A short ride to the next incarnation, but since the bike was buddhist it cared not all of such things 
+
+
+To disconnect from the outcome- to see so far down the well that it seems to circle all the way through the molten core of the world out the other side, through the atmosphere to the endless silently humming stars to end up at the back of the head that started the circle, watching from over the shoulder, knowing that the sounds it heard were only the beating of the blood in the veins that tied the body together. 
+
+That was whagtt could save the biker the knowledge that they could mount up an where they ended up was of little to no imprtantce. Hence the need to ride with the world at bay 
+
+The Celestial buddha was what powered the bike- the self reliance and self power - and the fact that nothing ultimately has existence- crossed over to the rubber and metal.
+
+n existentialism, the individual's starting point is characterized by what has been called "the existential attitude", or a sense of disorientation and confusion in the face of an apparently meaningless or absurd world.[5] Many existentialists have also regarded traditional systematic or academic philosophies, in both style and content, as too abstract and remote from concrete human experience.[</Text>
         </Document>
         <Document ID="57">
             <Title>Martin</Title>
@@ -372,19 +426,6 @@ Physical Description: tall, thin, white haired, clothes perfectly pressed at all
  	
 
 	Notes:	</Text>
-        </Document>
-        <Document ID="80">
-            <Title>Buddhist Bike </Title>
-            <Text>The bike was long and lean and hugged the curb as though it had grown there. The floweres threaded through it's spokes were unrra as was the shade of bright vermillion it was enamelled with. It stood high and proud next to the curb, a helmet hanging off the left handle bar. The locks that secured it to the fence werre intricate- made of iridescent clam shells they winked at him in complicity, knowing they weere going for a ride. A short ride to the next incarnation, but since the bike was buddhist it cared not all of such things 
-
-
-To disconnect from the outcome- to see so far down the well that it seems to circle all the way through the molten core of the world out the other side, through the atmosphere to the endless silently humming stars to end up at the back of the head that started the circle, watching from over the shoulder, knowing that the sounds it heard were only the beating of the blood in the veins that tied the body together. 
-
-That was whagtt could save the biker the knowledge that they could mount up an where they ended up was of little to no imprtantce. Hence the need to ride with the world at bay 
-
-The Celestial buddha was what powered the bike- the self reliance and self power - and the fact that nothing ultimately has existence- crossed over to the rubber and metal.
-
-n existentialism, the individual's starting point is characterized by what has been called "the existential attitude", or a sense of disorientation and confusion in the face of an apparently meaningless or absurd world.[5] Many existentialists have also regarded traditional systematic or academic philosophies, in both style and content, as too abstract and remote from concrete human experience.[</Text>
         </Document>
         <Document ID="104">
             <Title>Work</Title>
@@ -599,11 +640,11 @@ His trail inside that time had been dictated by a true lack of empathy for his f
 
 He started to care about death when it came from the side that he wasn't looking for- when he shared food and flame with the pickpocketeers, they had grown dear to him. 
 
-Isolde and Manju were a pair of phillipino dwarves that sated themselves on the pickings outside of the institutions of the city. The churches and cemeteries, the high end restaurant  the strp bars and the dance clubs- they stayed just outside of these places as people with pockets would wander into them and they being at pocket height would acquire wallets and phones, lipstick and keys, a rat, a silvery contraption that seemed to look like something taht would change the course of your teeth. All these things were piled high in thejr underramp nest, the magpie in them unable ot part with treasures that had no value as long as they sparkled. These were all that was left of them after the air whale consumed them . 
+Isolde and Manju were a pair of phillipino dwarves that sated themselves on the pickings outside of the institutions of the city. The churches and cemeteries, the high end restaurant  the strip bars and the dance clubs- they stayed just outside of these places as people with pockets would wander into them and they being at pocket height would acquire wallets and phones, lipstick and keys, a rat, a silvery contraption that seemed to look like something taht would change the course of your teeth. All these things were piled high in thejr underramp nest, the magpie in them unable to part with treasures that had no value as long as they sparkled. These were all that was left of them after the air whale consumed them . 
 
-Altho, Rando to be fair thought that anything directed at hime was being prejudicial after all. and the loss of Manju and Isolde meant that there was no flame to share- a single light against the night was sufficient to hosld most of it back, but not to eradicate the half formed monsters that lay just outside it's circle, their phantom limbs passing through the flicker and reaching for him when silence became too loud
+Altho, Rando to be fair thought that anything directed at hime was being prejudicial after all. and the loss of Manju and Isolde meant that there was no flame to share- a single light against the night was sufficient to hold most of it back, but not to eradicate the half formed monsters that lay just outside it's circle, their phantom limbs passing through the flicker and reaching for him when silence became too loud
 
-Thus he wanted to replace them- to find another being to share the flames and the small words . Replacement sounded so - cold Someone to be part of the next chapter. 
+Thus he wanted to replace them- to find another being to share the flames and the small words . Replacement sounded so - cold . After being alone for 200 years - it left a gap where there had been no space before. Someone to be part of the next chapter. 
 
 So he decided to ride the buddhist bike- the lack of attachment to outcome seemed like a good way to approach this. 
 The bike was long and lean and hugged the curb as though it had grown there. The floweres threaded through it's spokes were unrra as was the shade of bright vermillion it was enamelled with. It stood high and proud next to the curb, a helmet hanging off the left handle bar. The locks that secured it to the fence werre intricate- made of iridescent clam shells they winked at him in complicity, knowing they weere going for a ride. A short ride to the next incarnation, but since the bike was buddhist it cared not all of such things 
@@ -614,10 +655,6 @@ To disconnect from the outcome- to see so far down the well that it seems to cir
 That was whagtt could save the biker the knowledge that they could mount up an where they ended up was of little to no imprtantce. Hence the need to ride with the world at bay 
 
 The Celestial buddha was what powered the bike- the self reliance and self power - and the fact that nothing ultimately has existence- crossed over to the rubber and metal.</Text>
-        </Document>
-        <Document ID="106">
-            <Title>Birth</Title>
-            <Text>Describe Martin - he ends up being the “middle class caught up” in </Text>
         </Document>
         <Document ID="18">
             <Title>Settings</Title>
@@ -632,10 +669,14 @@ The Celestial buddha was what powered the bike- the self reliance and self power
 
 
 
-&lt;$PROJECTTITLE&gt;
+&lt;$PROJECTTITLE>
 
-&lt;$author&gt;</Text>
-            <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+&lt;$author></Text>
+            <Notes>These tags get replaced with the information set in Project > Meta-Data Settings… > Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="106">
+            <Title>Birth</Title>
+            <Text>Describe Martin - he ends up being the “middle class caught up” in </Text>
         </Document>
         <Document ID="114">
             <Title>Lea</Title>
@@ -680,12 +721,15 @@ Physical Description:	Blond hair, direct green eyes, juicy athletic , olive skin
 
 
 
-Copyright © &lt;$year&gt; &lt;$author&gt;
+Copyright © &lt;$year> &lt;$author>
 All rights reserved.
 ISBN:
 ISBN-13:
 </Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="122">
+            <Title>Untitled</Title>
         </Document>
         <Document ID="86">
             <Title>Did you have any common sense she asked</Title>
@@ -781,17 +825,20 @@ He looked down at his hands and saw the shell of her . He shrugged and tossed it
 
 </Text>
         </Document>
+        <Document ID="123">
+            <Title>Untitled</Title>
+        </Document>
         <Document ID="44">
             <Title>E-Book</Title>
-        </Document>
-        <Document ID="108">
-            <Title>Work </Title>
         </Document>
         <Document ID="88">
             <Title>Death From Rando</Title>
             <Text>Since he did not know of her before the meeting on top of the grave, her appearance in his dreams frightened him- her brown, sad eyes, the lashes tipped with frost and the fluffing of the air around him.
 
 He had watched the sparkling rockfall , completely shot trough with pyritical veins slide down the mountain. </Text>
+        </Document>
+        <Document ID="108">
+            <Title>Work </Title>
         </Document>
         <Document ID="45">
             <Title>Cover</Title>
@@ -1303,6 +1350,29 @@ This thought cheered him immensely , and there as a spring in his step as he wan
         <Document ID="77">
             <Title>Isolde</Title>
         </Document>
+        <Document ID="129">
+            <Title>Going Past The Past </Title>
+            <Text>You have to go back she said. Hammerspace and disguises
+
+Black Dog Syndrome. No matter how sweet-natured the animal, people see the dark coat and are hesitant to adopt the pet
+
+Another series that made extensive use of hammerspace was Kodomo no Omocha, where the mother of the main character would pull toy hammers of varying sizes to tap her daughter on the head to forge breaks in her ranting and offer a chance to glean understanding and wisdom.
+Hammerspace in games[edit]
+The theory of Hammerspace can also be applied to many video games, as game mechanics often defy those of the real world: for instance, a character might be able to carry a sword larger than himself without any sign of it before use, and inventory capabilities are commonly implausible
+
+Getting past the past was going to be tricky. In all his 1000 years he had never done something for someone else that did not eventually either directly or indirectly benefit him. The past on this particular thing was going to make him less viable, less easy in his mind. 
+
+But she had been so good to him, finding teh cracks in his armor and making it fly when it normally would just send him to the bottom of the barrel. 
+
+Her help in thwarting the air whale, the sacrifices she made to make the against Ellenbogen and Yumanity- all at great personal cost to herself- that was a moment that he ruminated on0 a time investment that was something taht he hoped and schemed that 
+
+
+Replace time with something else. 
+
+That was it- the rub, the hammer, the duvine deau ex machina that would shatter the sorrow of death that time wrought. It was also going to rease those memories of joy, the time spent in her arms, the love they shared. What was going to happen after that, he did not know. 
+
+Time was like metal on a jeweler bench- you could create and recreate the smae things if you beat on it  with the right hammer. It would work only if the form followed a function, a infinye ouroubourous that would heartfeltedly </Text>
+        </Document>
         <Document ID="78">
             <Title>Jerome</Title>
             <Text>Jerome is a older man of color who rides a bike that has been assembled by stealing bits from all kins of other bikes and other pieces of things- it has 7 tires and 12 gears Each gear can take you to an alternate point in history, this allowing people to go back and change things at specific points. </Text>
@@ -1400,9 +1470,9 @@ of words in a manuscript, most publishers and editors will
 happily accept a word processor word count these days. In
 Surname / TITLE / 5
 Scrivener, you can insert a word count of your manuscript by
-using Edit &gt; Insert &gt; Draft Word Count (for a manuscript, you
+using Edit > Insert > Draft Word Count (for a manuscript, you
 may wish to have the word count rounded to the nearest 100, in
-which case select Edit &gt; Insert &gt; Draft Word Count &gt; Rounded
+which case select Edit > Insert > Draft Word Count > Rounded
 To Nearest 100--this feature is used on the title page of this
 manuscript, in fact). Note that the actual word count will not
 be inserted, but a tag that will be substituted for the word
@@ -1417,7 +1487,7 @@ work to a publisher.
 based on a description of novel manuscript format by Matt
 Carless for the BBC Writers' Room website: http://
 www.bbc.co.uk/writersroom
-&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;
+&lt;&lt;&lt;&lt;>>>>
 Surname / TITLE / 6
 </Text>
         </Document>
@@ -1451,6 +1521,9 @@ They stood on either side of the bridge of politicians. It stretched across the 
 
 
 </Text>
+        </Document>
+        <Document ID="38">
+            <Title>Manuscript Format</Title>
         </Document>
         <Document ID="61">
             <Title>Birth</Title>
@@ -1516,9 +1589,6 @@ Who is doing this?
 When does this happen in the story?
 Where does this happen- </Text>
         </Document>
-        <Document ID="38">
-            <Title>Manuscript Format</Title>
-        </Document>
         <Document ID="62">
             <Title>Character Sketch</Title>
             <Text>Character Name
@@ -1563,7 +1633,6 @@ The Audax was the most nimble of bikes- it did not want to be caught. It had a d
 
 
 
-For the sight of intellect the addax was smooth and
 
 
 
@@ -1581,14 +1650,9 @@ Rando had been an engineer in another life- brought inside the UGB after the Bel
 
 Th e philosoraptor- a being that lives undereath the mounatin and spoyt poetic and noetic discsuuions on teh meaning of life. he is the arch nemesis of Rando the bike theifand they have been playing cat and mouse and air while for many many years. It gets to a point whenre ellenbogen is trying to take over the whole place and they need to join forces to rescue the world 
 
-
-
 The philo already has an origin story 
 
 the snowman (yeti) will be his servanct and double 
-
-
-
 
 
 Are the pickpocketeers- they are three guys who were crushed bt one ov the ellen bogen trucks and they are ghosts of homies- this enables them to move their way through things and beat up old people without really being too bad a fella 
@@ -1970,7 +2034,7 @@ The bicicyle revolutionazed the way people got to places- it made the units of m
 
 
 
-Rando was that guy- moving and grooving and continuing foreward All that came after was because f what came before, but no one would know now would they&gt; Click click clikc when the cards in the spokes woulf go round the hub- more and more and ore
+Rando was that guy- moving and grooving and continuing foreward All that came after was because f what came before, but no one would know now would they> Click click clikc when the cards in the spokes woulf go round the hub- more and more and ore
 
 
 

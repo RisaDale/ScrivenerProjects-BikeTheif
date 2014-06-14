@@ -380,19 +380,6 @@ Mr Ellenbogen was a target for this- his lack of care for the health of the plan
 
 She had become a piratologist because she was tired of watching teh world her children would live in slowly degenerate. She knew that the only way to fix the future as to go past the past, and change the way that things worked. This was no mean feat, give the amount of terrrible things that the corporations werre willing to do in the servicde of the almight dollar. </Text>
         </Document>
-        <Document ID="80">
-            <Title>Buddhist Bike </Title>
-            <Text>The bike was long and lean and hugged the curb as though it had grown there. The floweres threaded through it's spokes were unrra as was the shade of bright vermillion it was enamelled with. It stood high and proud next to the curb, a helmet hanging off the left handle bar. The locks that secured it to the fence werre intricate- made of iridescent clam shells they winked at him in complicity, knowing they weere going for a ride. A short ride to the next incarnation, but since the bike was buddhist it cared not all of such things 
-
-
-To disconnect from the outcome- to see so far down the well that it seems to circle all the way through the molten core of the world out the other side, through the atmosphere to the endless silently humming stars to end up at the back of the head that started the circle, watching from over the shoulder, knowing that the sounds it heard were only the beating of the blood in the veins that tied the body together. 
-
-That was whagtt could save the biker the knowledge that they could mount up an where they ended up was of little to no imprtantce. Hence the need to ride with the world at bay 
-
-The Celestial buddha was what powered the bike- the self reliance and self power - and the fact that nothing ultimately has existence- crossed over to the rubber and metal.
-
-n existentialism, the individual's starting point is characterized by what has been called "the existential attitude", or a sense of disorientation and confusion in the face of an apparently meaningless or absurd world.[5] Many existentialists have also regarded traditional systematic or academic philosophies, in both style and content, as too abstract and remote from concrete human experience.[</Text>
-        </Document>
         <Document ID="57">
             <Title>Martin</Title>
             <Text>Character Name
@@ -416,6 +403,19 @@ Physical Description: tall, thin, white haired, clothes perfectly pressed at all
  	
 
 	Notes:	</Text>
+        </Document>
+        <Document ID="80">
+            <Title>Buddhist Bike </Title>
+            <Text>The bike was long and lean and hugged the curb as though it had grown there. The floweres threaded through it's spokes were unrra as was the shade of bright vermillion it was enamelled with. It stood high and proud next to the curb, a helmet hanging off the left handle bar. The locks that secured it to the fence werre intricate- made of iridescent clam shells they winked at him in complicity, knowing they weere going for a ride. A short ride to the next incarnation, but since the bike was buddhist it cared not all of such things 
+
+
+To disconnect from the outcome- to see so far down the well that it seems to circle all the way through the molten core of the world out the other side, through the atmosphere to the endless silently humming stars to end up at the back of the head that started the circle, watching from over the shoulder, knowing that the sounds it heard were only the beating of the blood in the veins that tied the body together. 
+
+That was whagtt could save the biker the knowledge that they could mount up an where they ended up was of little to no imprtantce. Hence the need to ride with the world at bay 
+
+The Celestial buddha was what powered the bike- the self reliance and self power - and the fact that nothing ultimately has existence- crossed over to the rubber and metal.
+
+n existentialism, the individual's starting point is characterized by what has been called "the existential attitude", or a sense of disorientation and confusion in the face of an apparently meaningless or absurd world.[5] Many existentialists have also regarded traditional systematic or academic philosophies, in both style and content, as too abstract and remote from concrete human experience.[</Text>
         </Document>
         <Document ID="104">
             <Title>Work</Title>
@@ -646,6 +646,10 @@ That was whagtt could save the biker the knowledge that they could mount up an w
 
 The Celestial buddha was what powered the bike- the self reliance and self power - and the fact that nothing ultimately has existence- crossed over to the rubber and metal.</Text>
         </Document>
+        <Document ID="106">
+            <Title>Birth</Title>
+            <Text>Describe Martin - he ends up being the “middle class caught up” in </Text>
+        </Document>
         <Document ID="18">
             <Title>Settings</Title>
         </Document>
@@ -663,10 +667,6 @@ The Celestial buddha was what powered the bike- the self reliance and self power
 
 &lt;$author&gt;</Text>
             <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
-        </Document>
-        <Document ID="106">
-            <Title>Birth</Title>
-            <Text>Describe Martin - he ends up being the “middle class caught up” in </Text>
         </Document>
         <Document ID="114">
             <Title>Lea</Title>
@@ -821,14 +821,14 @@ He looked down at his hands and saw the shell of her . He shrugged and tossed it
         <Document ID="44">
             <Title>E-Book</Title>
         </Document>
+        <Document ID="108">
+            <Title>Work </Title>
+        </Document>
         <Document ID="88">
             <Title>Death From Rando</Title>
             <Text>Since he did not know of her before the meeting on top of the grave, her appearance in his dreams frightened him- her brown, sad eyes, the lashes tipped with frost and the fluffing of the air around him.
 
 He had watched the sparkling rockfall , completely shot trough with pyritical veins slide down the mountain. </Text>
-        </Document>
-        <Document ID="108">
-            <Title>Work </Title>
         </Document>
         <Document ID="45">
             <Title>Cover</Title>
@@ -1512,9 +1512,6 @@ They stood on either side of the bridge of politicians. It stretched across the 
 
 </Text>
         </Document>
-        <Document ID="38">
-            <Title>Manuscript Format</Title>
-        </Document>
         <Document ID="61">
             <Title>Birth</Title>
             <Text>Rando and the Ice Queen 
@@ -1578,6 +1575,9 @@ What purpose does it serve (in the story itself)
 Who is doing this? 
 When does this happen in the story?
 Where does this happen- </Text>
+        </Document>
+        <Document ID="38">
+            <Title>Manuscript Format</Title>
         </Document>
         <Document ID="62">
             <Title>Character Sketch</Title>

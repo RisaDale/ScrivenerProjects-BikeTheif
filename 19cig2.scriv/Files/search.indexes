@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="26">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+	Role in Story:	
+	Occupation:	
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="29">
+            <Title>Sample Story MS</Title>
+            <Text>Your Name Your address Your phone number Your e-mail address
+SHORT STORY MANUSCRIPT FORMAT by W. Ritter
+800 words
+Short story manuscript format is very similar to novel standard manuscript format. This template is intended to help you easily export or print using the standard format. In fact, this PDF file was generated using Scrivener's Compile feature. It was created in Scrivener using the Short Story project template.
+You should generally use a Courier 12-point font (which will print ten characters per inch). Because Courier is a monospace font (that is, all characters are the same width), it makes it easier for editors to detect spelling errors and also to calculate the approximate space your
+story will take up when published. Times New Roman and Arial are also usually acceptable though.
+Leave wide margins all around the page--at least an inch on all sides.
+Use double-spacing between lines--this gives the editor plenty of room to make corrections and notes.
+These guidelines will mean that you can't fit many words on a page--250 to 300 at the most. This will give your manuscript a higher page count, but it will pay off as it will be a lot easier for the editor to read--and you want to make the editor's job as easy as possible.
+# Print only on one side of the page. Your name, address,
+telephone number and e-mail address should go in the upper left corner of the first page of your manuscript. In the upper right corner, place an approximate word count. You can round up to the nearest hundred words, although in these days of word processors, a word processor-generated word count will probably be fine. The word count is used by the editor to work out how much space your story will take
+Ritter / Story Format / 2
+up. In Scrivener, you can insert a placeholder tag that will be replaced by your word count upon compile by using the Edit &gt; Insert menu.
+The title of your story should go roughly halfway down the first page (the editor can use the empty space above it to make notes). The title should be centred, and it is usually capitalised. Place your by-line two lines beneath the title. This is the name you want to appear in print, which might be a pseudonym or might use your initials instead of your full name.
+The first line of your story should start two lines beneath your by-line, and should be indented five spaces (half an inch) from the left margin.
+# You should place a header in the upper right corner of
+every page of your manuscript except for the first page. The header should comprise the surname that appears in the by-line, a key word from the title of the story, and the current page number. (The header should not go in the left corner, as the editorial staff may clip your manuscript in
+Ritter / Story Format / 3
+that corner.) Text should be left-justified with a "ragged" right
+margin. Some folk will tell you that you should always place two spaces between sentences, but in these days of word processors this rule is not so hard and fast any more. If you are in the habit of typing two spaces between sentences, fine; if not, it is probably not worth worrying about. Recent studies have shown that the number of spaces you type between sentences--one or two--has no discernible impact on how easy a piece of text is to read.
+# If you wish a word or phrase to appear in italics, this
+should be indicated in the manuscript by underlining. In Scrivener, you can use italics while writing and then just use "Convert italics to underlines" in the Transformations pane of the Compile sheet.
+Em-dashes--extended hyphens that set off a phrase such as this--should be indicated using two hyphens. In Scrivener, you can use "Convert em-dashes to double hyphens" upon compile. (All of this is set up for you in
+Ritter / Story Format / 4
+the Short Story project template.) #
+Line breaks in your story should be indicated by placing the "#" character between lines rather than leaving a blank line. This makes it easy for the typesetter to see where line breaks should fall. If you write each scene as a separate text document, you can have these separator characters added automatically upon compilation by using the "Separators" pane of the Compile sheet.
+Finally, you do not need to make any overt indication that your story is over--you do not need to type "The End" or anything of the sort. The ending should be obvious from your story. Follow these instructions, and your short story manuscript should at least appear professional--the content is down to you!
+# Much of the information contained in this document is
+based on a description of short story manuscript format by Matt Carless for the BBC Writers' Room website: http:// www.bbc.co.uk/writersroom
+Ritter / Story Format / 5
+</Text>
+        </Document>
+        <Document ID="11">
+            <Title>First Page Header</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>Your Name
+Your Address
+
+
+
+Your phone number
+Your e-mail address
+
+
+&lt;$wc100&gt; words
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by &lt;$fullname&gt;</Text>
+            <Notes>The text from this document will appear at the top of the first page of the compiled story. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
+
+The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
+        </Document>
+        <Document ID="24">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Story</Title>
+        </Document>
+        <Document ID="27">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+	Role in Story:	
+
+	Related Characters:	
+
+	Season:	
+
+	Unique Features:	
+
+	Description:	
+
+	Sights:	
+	Sounds:	
+	Smells:	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="28">
+            <Title>Short Story Format</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Scene</Title>
+            <Text>
+"Some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned or negotiated with. Some men just want to watch the world burn."
+— Alfred, The Dark Knight
+
+
+Cigs
+
+
+
+
+
+What  I was waiting for wasn’t going to come. 
+
+
+  
+There was only one cigarette missing from the pack. It made an obvious hole where it used to live with it's cylindrical brotehrs and sisteer.s I wondered what the hell was wrong with me that I felt such loss over something that was ephemeral to 
+begin with 
+
+
+So once you have that first cigratette. you are all in right? It’s not like you can give the pack back or just hand it off to someone else. Those 19 smokes need you. They want the rest of the lungs they came for.
+
+
+In other countries it makes you able to discuss without having to explain. 
+
+
+Being something that lasts the length of the conversation, the beat of the song, the moments it takes between a man lighting it and then remmoving it from your mouth to replace it's heat with the heat of his own. 
+
+These were the thoughts I had as I lit another mid stride down the street towards my house. 
+
+It's what separates you from those who would make life soft- soft lives are clean and easy, and don't end you up in places where you don't belong. The 19 left will go with you, even if no one else will.
+
+Doses Doeses Doeses- as I walk by the house up the road that has a constant flow of traffic we nod at each other. It’s a short sharp reminder that I live here, and would rather not. I narrowed my eyes and acknowledged they were sharing the backfired, charcoaled air that was mostly full of the sound of the rap music I hated.  
+
+
+Fuck all them, for not wanting to come along and making you do it alone- only because you NEED to go- it's not a choice. It beats in the blood, same way that you need one of those 19 smokes to accompany that next thought, the next tap dance.
+
+I seem to have lost my taste for it. It used to be the fuel I ran by- now I just feel like someone punched me in the nose or I skipped a stair. It's climbing up my insides right now, sticky and scaled and bitter. Blaine was supposed to show up with the cash and I was going to be totally screwed if this deal didn’t go down. 
+
+There was a load of 30 hot tablets  sitting in the back of  my car that was a payment away from repo. I had lifted them off the loading dock of the local apple store, with the assistance of one of the genii from the genius bar.  Xerxes was 300 lbs of geek - we shared a love of high stakes poker at the Korean mans’ house, so he knew about my difficultties. Half was going to him. 
+
+,. If I didn’t unload them quickly I would have to explain to my landlord, my divorce lawyer, the credit  card company and my local barkeep why there was no money for them. My verbal gymnastics had kept me a step ahead  for the last 6 months, Even I knew that kind of good karma eventually comes to an end.  For once I’d like to get out of the way of the wrecking ball before it comes slamming down. 
+
+Blaine appeared at the end of the street. I let go of the breath I didn’t know I was holding.  He was a student entrepreneur at the local community college. Freelance seems to suit him. 
+
+
+“You got em?” by way of greeting. Nodding, I gestured to the deep blue bmw , the last marker of my old life. It was still shiny and I saw the reflection of my hand heavy with silver rings in the trunk.
+
+
+Divorce had sucked out all my cash. My ex husband was a white collar criminal who had not bothered to tell me when things had gone badly. So I lived the same as I always had, going to lunch, buying shoes and  fiddling while the rome of my life burned. The federal agetns tromping through my orchids on that may morning was my first indicator that something was wrong. 
+
+Given I had grown up in  NorthEast Portland, being returned to it felt like failure. None of the girls I ran with still lived here. They all lived in the hills, a place I was no longer welcome . I had quit smoking when I lived in the hills. Nothing to worry about, nothing to soothe. 
+
+
+Popping the trunk that would send me to that next place a smile started to turn the corner up of my mouth,. It was empty. FUCK FUCK FUCK!!!!!!!! Smile gone, I turned to Blaine with searching eyes. 
+
+“They were there. “
+“Obviously”
+
+The trunk hadn’t been jimmied. It had been opened by a pro. And then closed gently. 
+
+
+Six cigarettes and one glass of cheap whine later I sat at the last place in portland whee you can smoke and drink at the bar itself. It was 10 blocks away from the trunk that had betrayed me. Having all that nicotine buzzing thru my brain knit some neurons together. 
+
+The porch sitters. They were the only ones that knew anything was in there. Up at all hours of the day and night, watching my comings and goings They must have seen it last night when I got home and opened the truck to check they hadn’t shifted during the very careful driving I had done to avoid detection. The late night cops in portland still watched for easy dui numbers and it was towards the end of the month. 
+
+
+Despite being sober as a judge, I was tired from the push through my head fear of getting the stuff. Xerxes had just left the door open a skidge, and went off shift 3 hours prior, so as to hopefully avoid detection. None of the cameras back there were on- it was a new store and they hadn’t had time to hook that up yet. 
+
+
+I had parked  couple blocks aay- all that new fangled technology wasn’t going to be all that heavy, and while they hadn’t hooked up the cams, that didn’t mean the exterior of the building wasn’t equipped. I was wearing all black and soft sneaers- the door had been edged open by sticking something into it between the 
+
+Pick it up at 10 cigarettes 
+No honor among thieves 
+Stealing them back from the drug dealers
+Delivering them to blaine? Back to the west hills
+
+
+
+Toward my house not necessary 
+Over explained the cash problem 
+
+</Text>
+        </Document>
+        <Document ID="23">
+            <Title>Characters</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>

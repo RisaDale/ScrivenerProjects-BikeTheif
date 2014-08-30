@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="19">
-            <Title>Story</Title>
-        </Document>
         <Document ID="25">
             <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="31">
+            <Text>Character Name
+
+	Role in Story:	
+	Occupation:	
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
         </Document>
         <Document ID="26">
             <Title>Character Sketch</Title>
@@ -61,6 +81,18 @@ by &lt;$fullname&gt;</Text>
 
 The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
         </Document>
+        <Document ID="32">
+            <Title>The Cult </Title>
+            <Text>. He had been a vacuum cleerr repair man in Indiana up to the moment when his wife delivered their third child, cementing his fate as a wage slave forever. 
+
+After the birth  he held her hand tenderly, met his newborn son and kissed him on the forehead. The white clad nurse, all sturdy midwestern trustworthiness held the little boy with steady arms, looking down on him with something akin to disbelief . 
+
+ after he kissed his forehead and made his excuses that he had been there for 12 hours while the labor of reproductions had transpired, he walked down the stairs of the hospital, rounding each landing from the 6th floor. The echo of his foots steps kept him company. 
+
+. His mother had the other two children, which gave him the opportuneity to clean out the bank account, pack a bag and find a bus ticket to California. He left the car for her. And about 30$. It was the last they ever saw of him, despite her father hiring a private detective to find him.
+
+Colette had beautiful golden hair that reached well past her shoulder blades. Her farm strong fingers played a mean proud mary In the glinting california sun it looked like a halo, and that was what Alan banked on as he decided that it was time to be a church. Her delicate features and childish aspect inspired  </Text>
+        </Document>
         <Document ID="27">
             <Title>Setting Sketch</Title>
             <Text>Name of Setting
@@ -80,6 +112,10 @@ The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the infor
 	Smells:	
 
 	Notes:	</Text>
+        </Document>
+        <Document ID="33">
+            <Title>8. The Illuminati have nurtured a child, Satan’s son</Title>
+            <Text>8. The Illuminati have nurtured a child, Satan’s son, who was born on 6 June 1966 at the Dakota House on 72nd Street in New York to Jacqueline Kennedy Onassis of the Rothschild/Kennedy families. The Pope was present at the birth and performed necromantic ceremonies. The child was raised by former U.S. president Richard Nixon and now lives in Belgium, where it is hooked up bodily to a computer called “The Beast 3M” or “3666.”</Text>
         </Document>
         <Document ID="23">
             <Title>Characters</Title>
@@ -278,28 +314,8 @@ based on a description of short story manuscript format by Matt Carless for the 
 Ritter / Story Format / 5
 </Text>
         </Document>
-        <Document ID="31">
-            <Text>Character Name
-
-	Role in Story:	
-	Occupation:	
- 	
-
-Physical Description:	
-
-	Personality:	
-
-	Habits/Mannerisms:	
- 	
-
-	Background:	
-
-	Internal Conflicts:	
-
-	External Conflicts:	 
- 	
-
-	Notes:	</Text>
+        <Document ID="19">
+            <Title>Story</Title>
         </Document>
     </Documents>
 </SearchIndexes>

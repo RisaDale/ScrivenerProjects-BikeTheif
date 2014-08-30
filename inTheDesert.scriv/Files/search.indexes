@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="25">
+            <Title>Template Sheets</Title>
+        </Document>
         <Document ID="26">
             <Title>Character Sketch</Title>
             <Text>Character Name
@@ -25,45 +28,36 @@ Physical Description:
 
 	Notes:	</Text>
         </Document>
-        <Document ID="29">
-            <Title>Sample Story MS</Title>
-            <Text>Your Name Your address Your phone number Your e-mail address
-SHORT STORY MANUSCRIPT FORMAT by W. Ritter
-800 words
-Short story manuscript format is very similar to novel standard manuscript format. This template is intended to help you easily export or print using the standard format. In fact, this PDF file was generated using Scrivener's Compile feature. It was created in Scrivener using the Short Story project template.
-You should generally use a Courier 12-point font (which will print ten characters per inch). Because Courier is a monospace font (that is, all characters are the same width), it makes it easier for editors to detect spelling errors and also to calculate the approximate space your
-story will take up when published. Times New Roman and Arial are also usually acceptable though.
-Leave wide margins all around the page--at least an inch on all sides.
-Use double-spacing between lines--this gives the editor plenty of room to make corrections and notes.
-These guidelines will mean that you can't fit many words on a page--250 to 300 at the most. This will give your manuscript a higher page count, but it will pay off as it will be a lot easier for the editor to read--and you want to make the editor's job as easy as possible.
-# Print only on one side of the page. Your name, address,
-telephone number and e-mail address should go in the upper left corner of the first page of your manuscript. In the upper right corner, place an approximate word count. You can round up to the nearest hundred words, although in these days of word processors, a word processor-generated word count will probably be fine. The word count is used by the editor to work out how much space your story will take
-Ritter / Story Format / 2
-up. In Scrivener, you can insert a placeholder tag that will be replaced by your word count upon compile by using the Edit > Insert menu.
-The title of your story should go roughly halfway down the first page (the editor can use the empty space above it to make notes). The title should be centred, and it is usually capitalised. Place your by-line two lines beneath the title. This is the name you want to appear in print, which might be a pseudonym or might use your initials instead of your full name.
-The first line of your story should start two lines beneath your by-line, and should be indented five spaces (half an inch) from the left margin.
-# You should place a header in the upper right corner of
-every page of your manuscript except for the first page. The header should comprise the surname that appears in the by-line, a key word from the title of the story, and the current page number. (The header should not go in the left corner, as the editorial staff may clip your manuscript in
-Ritter / Story Format / 3
-that corner.) Text should be left-justified with a "ragged" right
-margin. Some folk will tell you that you should always place two spaces between sentences, but in these days of word processors this rule is not so hard and fast any more. If you are in the habit of typing two spaces between sentences, fine; if not, it is probably not worth worrying about. Recent studies have shown that the number of spaces you type between sentences--one or two--has no discernible impact on how easy a piece of text is to read.
-# If you wish a word or phrase to appear in italics, this
-should be indicated in the manuscript by underlining. In Scrivener, you can use italics while writing and then just use "Convert italics to underlines" in the Transformations pane of the Compile sheet.
-Em-dashes--extended hyphens that set off a phrase such as this--should be indicated using two hyphens. In Scrivener, you can use "Convert em-dashes to double hyphens" upon compile. (All of this is set up for you in
-Ritter / Story Format / 4
-the Short Story project template.) #
-Line breaks in your story should be indicated by placing the "#" character between lines rather than leaving a blank line. This makes it easy for the typesetter to see where line breaks should fall. If you write each scene as a separate text document, you can have these separator characters added automatically upon compilation by using the "Separators" pane of the Compile sheet.
-Finally, you do not need to make any overt indication that your story is over--you do not need to type "The End" or anything of the sort. The ending should be obvious from your story. Follow these instructions, and your short story manuscript should at least appear professional--the content is down to you!
-# Much of the information contained in this document is
-based on a description of short story manuscript format by Matt Carless for the BBC Writers' Room website: http:// www.bbc.co.uk/writersroom
-Ritter / Story Format / 5
-</Text>
-        </Document>
-        <Document ID="24">
-            <Title>Places</Title>
-        </Document>
-        <Document ID="19">
-            <Title>Story</Title>
+        <Document ID="11">
+            <Title>A girl with a Smile that can Shatter the Sky</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>Your Name
+Your Address
+
+
+
+Your phone number
+Your e-mail address
+
+
+&lt;$wc100&gt; words
+
+
+
+
+
+
+
+
+
+
+&lt;In The Desert&gt;
+
+by &lt;$Risa Dale
+&gt;</Text>
+            <Notes>The text from this document will appear at the top of the first page of the compiled story. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
+
+The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
         </Document>
         <Document ID="27">
             <Title>Setting Sketch</Title>
@@ -85,73 +79,170 @@ Ritter / Story Format / 5
 
 	Notes:	</Text>
         </Document>
-        <Document ID="11">
-            <Title>First Page Header</Title>
-            <Synopsis>Title page to the manuscript.</Synopsis>
-            <Text>&lt;$template_fullName>
-&lt;$template_street>
-&lt;$template_city>
-&lt;$template_state>
-&lt;$template_ZIP>
-&lt;$template_phoneNumber>
-&lt;$Template_email>
-
-
-&lt;$wc100> words
-
-
-
-
-
-
-
-
-
-
-&lt;$PROJECTTITLE>
-
-by &lt;$fullname></Text>
-            <Notes>The text from this document will appear at the top of the first page of the compiled story. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
-
-The &lt;$PROJECTTITLE> and &lt;$fullname> tags get replaced with the information set in Project > Meta-Data Settings… > Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
-        </Document>
-        <Document ID="25">
-            <Title>Template Sheets</Title>
+        <Document ID="23">
+            <Title>Characters</Title>
         </Document>
         <Document ID="6">
             <Title>Scene</Title>
-        </Document>
-        <Document ID="23">
-            <Title>Characters</Title>
+            <Text>The world is on edge. Finding unused and hidden rooms. The government uses Mark to kill one of the drug cartel guys. He and Elisa end up being Mr and Mrs Smith - he doesn’t know that she kills people too. The Doom Machine is really the IMF gone wild 
+
+
+
+		answer ask lie 
+
+
+He got up and hucked his empty at the dune he couldn't see in the dark. The bottle shattered, but the sound was swallowed by the big boned night.. Usually the air chafed him- whatever room he was in was always too small.
+
+Two was watching him. He could feel it in the dark. Two always watched - he came along and smiled and did the work but wasn't much of a travelling companion. He never spoke unless spoken to, never offered any portion of himself that wasn't absolulely necessary. Then again in the 2300's no one was anything anymore. Everyone just what was called for. You got your chit, were told where to go and showed up and did the job. 
+
+He tossed another log on the fire. They stayed outside because he wanted to see the sun rise. It never rose over cities anymore- the smog and the crap from the Doom Machine never allowed for the rays to come in anymore. 
+
+The work they did wasn't hard. It had taken less then the time the chit had proscribed.
+
+You didn't go back early- if you did that you skewed the stats and the Agency didn't like that. So after all the bols and veneers had been scalloped and the fine tuning done, they packed up and tossed a tent in the back of the AvaHighline they had rented. The truck was a sqare with hoverlift wheels, allowing you to float over whatever it was you were going over. It ran on ether- that stuff that people in the 21st century had used to put people to sleep before surgery. 
+
+He was watching the horizon, hoping that the sun would come soon. It was cold. There was something that was coming- and he just didn't know what it was . It had been coming for a while. 
+
+
+ 
+
+She tried to roll over . It wasn't working real well , this sleeping alone thing. His stertorous breathing was her metronome, the thing she matched her own to while the swirling of her mind kept going and going. Once she matched, she could finally traipse to dreamland for a while. It was populated with all kinds of monsters from past and present, but at least it was not the waking world.
+
+
+She knew that he would eventually come back- he always did. It was the waiting- she tried to keep occupied- house cleaned, face creamed, legs shaved, books re-roganized. Sometimes she would pull everything out of the closet and re arrange it in careful rows, minding the pre- existing chaos so she could out it back before he came home. That was how she found the guns. 
+
+They were in a large wooden box that was almost at the end of the closet. It was an old house and the closet got smaller towards the back end. it was almost completely wedged in there, and she had to climb up  to the stair on the ladder taht stated you should not use it as a step. Fuck the little label, she did anyway, feeling it asway beneath her legs standing firm on it. she piched her knees to steady it, her superior grasp of the physics of her physicality saving her from tumbling backwards and cracking open her skull, but not before the visual flashed through her head. 
+
+She slipped a hand between the box and the wall, , and wiggled. It slowly gave way. Gently she eased it out, pushing aside the clothes and the detritus of a life.
+
+She eased it back, surprised at the weight. She toed the next rung, slowly re- adjusting so she could get down without falling. 
+ 
+She sat back on the bed. Opening the box there were two guns , nestled like dead lovers in the satin box. They were old, from the 20th century at least. She picked one up and was interested in the feeling of weight. Bringing it close to her eyes she saw the name on it “Glock”. She said it out loud, breaking the stillness of the house. 
+
+
+
+The sound of the coyotes ripped away sleep again. Lying on his back in the sleeping bag the seams of the tent formed an endless bowl . To his half awake eyes. Looking at his glowy watch it was another possible 45 minutes of sleep or just giving in and getting up to head back towards Elisa. . His lower half was excited about seeing her. The rest of him wasn’t sure that having to hear her speak would be worth the rest of it. She was supposed to be a helpmate- all she was was deadweight at this point. Her emotional problems, inability to speak without screaming about some real or perceived slight had driven a wedge between them long ago that allowed him to leave months at a time and not miss her soft body too much. Then again, if i=he had chosen someone easier to live with, it would hurt more to leave her. 
+
+ The early morning sounds of 4 am were soft-the weight of the gun felt right in her hand. Putting the gun bak in it’s small coffin she dressed in the half dark. Boots, jeans and t shirt were quick and right . She carried the box down the stairs and walked out into the back yard. Mark left the shooting targets up from the last time he came home with the AK- he loved to obliterate lines of bottles and cans while drinking l water glasses filled with straight whiskey. For a man who claimed to love peace he sure did love the sound of the gun. 
+
+
+
+Two had packed up the site by the time Mark woke up the second time. The buzzards were circling in the desert morning, about a mile distant. Something must have died overnight, perhaps the coyotes taking down a peccary. Getting in the hover car it started with a flick of the switch and took the road without a second thought. Two was driving since Mark didn’t care. Pressing a button on the console coffee appeared in front of both of them. 
+
+“Sleep OK? “
+Two nodded yes. 
+“You?”
+“Yes”
+The next 30 miles passed in silence unbroken. 
+
+Elisa sighted the barrel in line with the first can. The trigger squeeze was natural and the shot was as expected, barked and spit and clang . Again. Again. Again. 
+
+Two and Mark arrived in Mexico City with time to spare.
+The pink stucco building that held the office had tiled stairs and a stylized lion on either side of the stairs ,  on the corner of Calle Verdad and Ave de Chapultapec. 
+ Major Perez-Hernandez looked at them with dim eyes as they handed in there chits.Major Perez- Hernandez “Thank you for your service. Are they all dead? “
+Two shot a look at Mark- he nodded. 
+Mark said “yes “ 
+
+Elisa pulled the trigger again. Until there was no ammo left and the air smelled like it. 
+
+The airport was filled with people who looked like they had no idea where they were going. Mark wasn’t one of them. His purposeful stride and brilliant red hair allowed her to sight him almost instantly in the flood of people .He and Two had separated at the gate, until the next time. 
+
+ Getting into the car he grunted at her, She grunted back, cigarette held at an angle that didn’t waft the smoke away from him. 
+
+She presented a cheek and he pecked it. 
+
+The glock sat in the console . He raised an eyebrow but said nothing. 
+
+“The monsters are back”
+“Did you expect anything different?” 
+He looked at her profile. It was inconclusive. That was what made him stay with her. 
+
+
+They discover that cigarettes are good for you 
+Why is the gun so old- she finds her own guns 
+Loaded or not loaded 
+She needs to go find ammo 
+
+More future details 
+IMF has gone nutty 
+Possibly 2030 
+</Text>
         </Document>
         <Document ID="28">
             <Title>Short Story Format</Title>
             <Text>SHORT STORY MANUSCRIPT FORMAT
 
 About This Template
-When compiled (File > Compile), this project will generate a document in the standard manuscript format for short story submissions.
+When compiled (File &gt; Compile), this project will generate a document in the standard manuscript format for short story submissions.
 
 How To Use This Template
 	•	Edit the First Page Header document to ensure it contains the correct information. The text in this document will appear at the top of the first page of the compiled story manuscript.
 	•	Create a new text document for each scene inside the Story folder. (Upon export, scenes will automatically be separated by the “#” character.) Alternatively, you can write your entire story in a single text document if you prefer (in which case you will need to add the “#” character between the scenes in your document yourself).
-	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents > Change Icon feature.)
-	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template > Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way. Alternatively, you can just click “Add”, or hit cmd-N, with the Characters or Places folders selected.
-	•	Compile your manuscript into standard short story manuscript format by selecting File > Compile.
+	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way. Alternatively, you can just click “Add”, or hit cmd-N, with the Characters or Places folders selected.
+	•	Compile your manuscript into standard short story manuscript format by selecting File &gt; Compile.
 
 Making Changes
 You may wish to change the following:
 	•	Page header: You can edit the page header in the “Page Settings” pane of the Compile sheet.
 	•	Font: You can use “Quick Font Override” in Compile to change the font used throughout the final document.
 	•	Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
-	1.	To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents > Change Icon to choose a different icon.
+	1.	To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
 	2.	To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
-	3.	To set things up so that when the special folder created in (1) is selected and you hit “Add”, a new document based on the one you set up in (2) is created, select the folder and go to Documents > Default New Subdocument Type and select the special template document you created.
+	3.	To set things up so that when the special folder created in (1) is selected and you hit “Add”, a new document based on the one you set up in (2) is created, select the folder and go to Documents &gt; Default New Subdocument Type and select the special template document you created.
 
 Sample Document
 See the “Sample Story MS” PDF file in the Research folder for an example of a document that has been created using this template.
 
 Final Note
-Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File > Save As Template.</Text>
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="24">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="0">
+            <Title>A Girl With a Smile That Can Shatter the Sky</Title>
+        </Document>
+        <Document ID="29">
+            <Title>Sample Story MS</Title>
+            <Text>Your Name Your address Your phone number Your e-mail address
+SHORT STORY MANUSCRIPT FORMAT by W. Ritter
+800 words
+Short story manuscript format is very similar to novel standard manuscript format. This template is intended to help you easily export or print using the standard format. In fact, this PDF file was generated using Scrivener's Compile feature. It was created in Scrivener using the Short Story project template.
+You should generally use a Courier 12-point font (which will print ten characters per inch). Because Courier is a monospace font (that is, all characters are the same width), it makes it easier for editors to detect spelling errors and also to calculate the approximate space your
+story will take up when published. Times New Roman and Arial are also usually acceptable though.
+Leave wide margins all around the page--at least an inch on all sides.
+Use double-spacing between lines--this gives the editor plenty of room to make corrections and notes.
+These guidelines will mean that you can't fit many words on a page--250 to 300 at the most. This will give your manuscript a higher page count, but it will pay off as it will be a lot easier for the editor to read--and you want to make the editor's job as easy as possible.
+# Print only on one side of the page. Your name, address,
+telephone number and e-mail address should go in the upper left corner of the first page of your manuscript. In the upper right corner, place an approximate word count. You can round up to the nearest hundred words, although in these days of word processors, a word processor-generated word count will probably be fine. The word count is used by the editor to work out how much space your story will take
+Ritter / Story Format / 2
+up. In Scrivener, you can insert a placeholder tag that will be replaced by your word count upon compile by using the Edit &gt; Insert menu.
+The title of your story should go roughly halfway down the first page (the editor can use the empty space above it to make notes). The title should be centred, and it is usually capitalised. Place your by-line two lines beneath the title. This is the name you want to appear in print, which might be a pseudonym or might use your initials instead of your full name.
+The first line of your story should start two lines beneath your by-line, and should be indented five spaces (half an inch) from the left margin.
+# You should place a header in the upper right corner of
+every page of your manuscript except for the first page. The header should comprise the surname that appears in the by-line, a key word from the title of the story, and the current page number. (The header should not go in the left corner, as the editorial staff may clip your manuscript in
+Ritter / Story Format / 3
+that corner.) Text should be left-justified with a "ragged" right
+margin. Some folk will tell you that you should always place two spaces between sentences, but in these days of word processors this rule is not so hard and fast any more. If you are in the habit of typing two spaces between sentences, fine; if not, it is probably not worth worrying about. Recent studies have shown that the number of spaces you type between sentences--one or two--has no discernible impact on how easy a piece of text is to read.
+# If you wish a word or phrase to appear in italics, this
+should be indicated in the manuscript by underlining. In Scrivener, you can use italics while writing and then just use "Convert italics to underlines" in the Transformations pane of the Compile sheet.
+Em-dashes--extended hyphens that set off a phrase such as this--should be indicated using two hyphens. In Scrivener, you can use "Convert em-dashes to double hyphens" upon compile. (All of this is set up for you in
+Ritter / Story Format / 4
+the Short Story project template.) #
+Line breaks in your story should be indicated by placing the "#" character between lines rather than leaving a blank line. This makes it easy for the typesetter to see where line breaks should fall. If you write each scene as a separate text document, you can have these separator characters added automatically upon compilation by using the "Separators" pane of the Compile sheet.
+Finally, you do not need to make any overt indication that your story is over--you do not need to type "The End" or anything of the sort. The ending should be obvious from your story. Follow these instructions, and your short story manuscript should at least appear professional--the content is down to you!
+# Much of the information contained in this document is
+based on a description of short story manuscript format by Matt Carless for the BBC Writers' Room website: http:// www.bbc.co.uk/writersroom
+Ritter / Story Format / 5
+</Text>
+        </Document>
+        <Document ID="30">
+            <Title>Driving out today from the airport with Two felt like</Title>
+            <Text>Driving out today from the airport with Two felt like  being released. The mexican desert was a surprise- he thought of desert and pictured shimmering heat and rocks and dust. Maybe an iguanaThe road to Saltillo had everything you saw in the US- same chain restaurants., same truck stops . Two drowsed in the seat next to him, his TFL cap hiding the top of his face. It produced a strange affect in him, almost like he'd been driving this road forever before and would never stop. Time got bendy- it always did when he was travelling 9 days in a row. The procession of hotel rooms and airplane lounges lulled him tho- heliked that it was always temproary, that conversations could be had with no recrimination, no need to remember what you were saying vecause it would slide off the corps colosum like snail ooze. </Text>
+        </Document>
+        <Document ID="19">
+            <Title>Story</Title>
         </Document>
     </Documents>
 </SearchIndexes>

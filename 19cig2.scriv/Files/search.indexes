@@ -59,6 +59,32 @@ based on a description of short story manuscript format by Matt Carless for the 
 Ritter / Story Format / 5
 </Text>
         </Document>
+        <Document ID="24">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Story</Title>
+        </Document>
+        <Document ID="27">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+	Role in Story:	
+
+	Related Characters:	
+
+	Season:	
+
+	Unique Features:	
+
+	Description:	
+
+	Sights:	
+	Sounds:	
+	Smells:	
+
+	Notes:	</Text>
+        </Document>
         <Document ID="11">
             <Title>First Page Header</Title>
             <Synopsis>Title page to the manuscript.</Synopsis>
@@ -88,32 +114,6 @@ by &lt;$fullname&gt;</Text>
             <Notes>The text from this document will appear at the top of the first page of the compiled story. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
 
 The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
-        </Document>
-        <Document ID="24">
-            <Title>Places</Title>
-        </Document>
-        <Document ID="19">
-            <Title>Story</Title>
-        </Document>
-        <Document ID="27">
-            <Title>Setting Sketch</Title>
-            <Text>Name of Setting
-
-	Role in Story:	
-
-	Related Characters:	
-
-	Season:	
-
-	Unique Features:	
-
-	Description:	
-
-	Sights:	
-	Sounds:	
-	Smells:	
-
-	Notes:	</Text>
         </Document>
         <Document ID="25">
             <Title>Template Sheets</Title>

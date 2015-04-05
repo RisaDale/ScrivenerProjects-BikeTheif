@@ -4,20 +4,27 @@
 <dict>
 	<key>.lockedInPlace</key>
 	<false/>
+	<key>DisableFileRecoveryOnOpen</key>
+	<true/>
+	<key>QRPanelSettings</key>
+	<dict/>
 	<key>binderSelection</key>
 	<array>
-		<integer>4</integer>
+		<integer>0</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {197, 562}}</string>
-		<string>{{198, 0}, {752, 562}}</string>
+		<string>{{0, 0}, {223, 697}}</string>
+		<string>{{224, 0}, {975, 697}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
 		<integer>0</integer>
-		<integer>19</integer>
+		<integer>4</integer>
+		<integer>17</integer>
+		<integer>18</integer>
 		<integer>1</integer>
+		<integer>39</integer>
 	</array>
 	<key>closedSuccessfully</key>
 	<true/>
@@ -34,34 +41,45 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {582, 283}}</string>
-		<string>{{0, 293}, {582, 283}}</string>
+		<string>{{0, 0}, {632, 301}}</string>
+		<string>{{0, 311}, {632, 302}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
+	<key>fullScreenInspectorMode</key>
+	<integer>0</integer>
+	<key>fullScreenInspectorVisible</key>
+	<false/>
+	<key>fullScreenTextEditorSettings</key>
+	<dict>
+		<key>lineNumberingInterval</key>
+		<integer>0</integer>
+		<key>showsLineNumbers</key>
+		<false/>
+		<key>usesFacingPages</key>
+		<false/>
+	</dict>
 	<key>inspectorIsCollapsed</key>
-	<true/>
+	<false/>
+	<key>inspectorNotesMode</key>
+	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {524, 504}}</string>
-		<string>{{525, 0}, {227, 504}}</string>
+		<string>{{0, 0}, {711, 671}}</string>
+		<string>{{712, 0}, {263, 671}}</string>
 	</array>
 	<key>inspectorWidth</key>
-	<real>227</real>
+	<real>201</real>
 	<key>lastDocumentSplitType</key>
 	<integer>0</integer>
+	<key>mainDocumentEditor.PDFAutoScales</key>
+	<false/>
+	<key>mainDocumentEditor.PDFScale</key>
+	<real>1.1892000436782837</real>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>6</integer>
+		<integer>12</integer>
 	</array>
-	<key>mainDocumentEditor.corkboardSelection</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMS
-	AAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKjCwwRVSRudWxs0g0ODxBWJGNs
-	YXNzXE5TUmFuZ2VDb3VudIACEADSEhMUFVgkY2xhc3Nlc1okY2xhc3NuYW1lohUWWk5T
-	SW5kZXhTZXRYTlNPYmplY3QIERofKTI3Oj9BU1ddYml2eHp/iJOWoQAAAAAAAAEBAAAA
-	AAAAABcAAAAAAAAAAAAAAAAAAACq
-	</data>
 	<key>mainDocumentEditor.corkboardVisible</key>
 	<false/>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
@@ -93,81 +111,48 @@
 		<key>NavigationHistoryArray</key>
 		<array/>
 	</dict>
-	<key>mainDocumentEditor.navigationHistory</key>
-	<dict>
-		<key>CurrentIndex</key>
-		<integer>5</integer>
-		<key>NavigationHistoryArray</key>
-		<array>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>28</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>6</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>28</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>0</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>2</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>19</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>2</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>6</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-		</array>
-	</dict>
 	<key>mainDocumentEditor.outlinerVisible</key>
 	<false/>
+	<key>mainDocumentEditor.rulerIsVisible</key>
+	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 1187}, {737, 490}}</string>
+	<string>{{0, 0}, {711, 625}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{4286, 0}</string>
+	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
-		<key>hasMultiplePages</key>
+		<key>isRulerVisible</key>
 		<false/>
-		<key>textScale</key>
-		<integer>100</integer>
 		<key>usesFacingPages</key>
 		<false/>
 	</dict>
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>1627 224 950 584 1440 114 1280 698 </string>
+	<string>0 699 1199 719 0 0 2560 1418 </string>
+	<key>projectStatsSheet</key>
+	<dict>
+		<key>excludeAnnots</key>
+		<true/>
+		<key>excludeFN</key>
+		<false/>
+		<key>includeSubdocs</key>
+		<false/>
+		<key>limitLinesPerPage</key>
+		<true/>
+		<key>lineCountingFont</key>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQB
+		aRiEBVsyNGNdBgAAABAAAAD//kMAbwB1AHIAaQBlAHIAhAFmDIQBYwCYAZgA
+		mACG
+		</data>
+		<key>maxLinesPerPage</key>
+		<integer>50</integer>
+		<key>options</key>
+		<integer>0</integer>
+		<key>wordsPerPaperbackPage</key>
+		<integer>350</integer>
+	</dict>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -220,7 +205,7 @@
 		<array/>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 304}}</string>
+	<string>{{0, 0}, {621, 304}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.textEditorState</key>

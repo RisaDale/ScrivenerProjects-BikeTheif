@@ -283,7 +283,7 @@ Scrivener project templates are flexible and are not intended to restrict you to
         </Document>
         <Document ID="103">
             <Title>School </Title>
-            <Text>Rando and the Ice Queen 
+            <Text>Rando and the Queen of Maybe
 
 I have no history, she said. None whatever. There is no long thin line of remembrance and regret that ties me to the earth.
 
@@ -380,6 +380,19 @@ Mr Ellenbogen was a target for this- his lack of care for the health of the plan
 
 She had become a piratologist because she was tired of watching teh world her children would live in slowly degenerate. She knew that the only way to fix the future as to go past the past, and change the way that things worked. This was no mean feat, give the amount of terrrible things that the corporations werre willing to do in the servicde of the almight dollar. </Text>
         </Document>
+        <Document ID="80">
+            <Title>Buddhist Bike </Title>
+            <Text>The bike was long and lean and hugged the curb as though it had grown there. The floweres threaded through it's spokes were unrra as was the shade of bright vermillion it was enamelled with. It stood high and proud next to the curb, a helmet hanging off the left handle bar. The locks that secured it to the fence werre intricate- made of iridescent clam shells they winked at him in complicity, knowing they weere going for a ride. A short ride to the next incarnation, but since the bike was buddhist it cared not all of such things 
+
+
+To disconnect from the outcome- to see so far down the well that it seems to circle all the way through the molten core of the world out the other side, through the atmosphere to the endless silently humming stars to end up at the back of the head that started the circle, watching from over the shoulder, knowing that the sounds it heard were only the beating of the blood in the veins that tied the body together. 
+
+That was whagtt could save the biker the knowledge that they could mount up an where they ended up was of little to no imprtantce. Hence the need to ride with the world at bay 
+
+The Celestial buddha was what powered the bike- the self reliance and self power - and the fact that nothing ultimately has existence- crossed over to the rubber and metal.
+
+n existentialism, the individual's starting point is characterized by what has been called "the existential attitude", or a sense of disorientation and confusion in the face of an apparently meaningless or absurd world.[5] Many existentialists have also regarded traditional systematic or academic philosophies, in both style and content, as too abstract and remote from concrete human experience.[</Text>
+        </Document>
         <Document ID="57">
             <Title>Martin</Title>
             <Text>Character Name
@@ -404,24 +417,11 @@ Physical Description: tall, thin, white haired, clothes perfectly pressed at all
 
 	Notes:	</Text>
         </Document>
-        <Document ID="80">
-            <Title>Buddhist Bike </Title>
-            <Text>The bike was long and lean and hugged the curb as though it had grown there. The floweres threaded through it's spokes were unrra as was the shade of bright vermillion it was enamelled with. It stood high and proud next to the curb, a helmet hanging off the left handle bar. The locks that secured it to the fence werre intricate- made of iridescent clam shells they winked at him in complicity, knowing they weere going for a ride. A short ride to the next incarnation, but since the bike was buddhist it cared not all of such things 
-
-
-To disconnect from the outcome- to see so far down the well that it seems to circle all the way through the molten core of the world out the other side, through the atmosphere to the endless silently humming stars to end up at the back of the head that started the circle, watching from over the shoulder, knowing that the sounds it heard were only the beating of the blood in the veins that tied the body together. 
-
-That was whagtt could save the biker the knowledge that they could mount up an where they ended up was of little to no imprtantce. Hence the need to ride with the world at bay 
-
-The Celestial buddha was what powered the bike- the self reliance and self power - and the fact that nothing ultimately has existence- crossed over to the rubber and metal.
-
-n existentialism, the individual's starting point is characterized by what has been called "the existential attitude", or a sense of disorientation and confusion in the face of an apparently meaningless or absurd world.[5] Many existentialists have also regarded traditional systematic or academic philosophies, in both style and content, as too abstract and remote from concrete human experience.[</Text>
-        </Document>
         <Document ID="104">
             <Title>Work</Title>
             <Text>The Stealing of the Bikes, each of which adds intelligence to the sense and sensibility machine 
 The creation of the Sense and Sensibility Machine 
-The falling in love with the Ice queen and vice versa 
+The falling in love with the Queen of Maybeand vice versa 
 The rescue of the good people of PortTown 
 </Text>
         </Document>
@@ -646,10 +646,6 @@ That was whagtt could save the biker the knowledge that they could mount up an w
 
 The Celestial buddha was what powered the bike- the self reliance and self power - and the fact that nothing ultimately has existence- crossed over to the rubber and metal.</Text>
         </Document>
-        <Document ID="106">
-            <Title>Birth</Title>
-            <Text>Describe Martin - he ends up being the “middle class caught up” in </Text>
-        </Document>
         <Document ID="18">
             <Title>Settings</Title>
         </Document>
@@ -667,6 +663,10 @@ The Celestial buddha was what powered the bike- the self reliance and self power
 
 &lt;$author&gt;</Text>
             <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="106">
+            <Title>Birth</Title>
+            <Text>Describe Martin - he ends up being the “middle class caught up” in </Text>
         </Document>
         <Document ID="114">
             <Title>Lea</Title>
@@ -687,7 +687,7 @@ Physical Description:	Blond hair, direct green eyes, juicy athletic , olive skin
 
 	Internal Conflicts:	wants to help everyone- this isn’t always possible. Sometimes to the deteriment of herself 
 
-	External Conflicts: The philosoraptor tries to eat her . Rando and she fight for the soul of the Ice Queen 	 
+	External Conflicts: The philosoraptor tries to eat her . Rando and she fight for the soul of the Queen of Maybe	 
  	
 
 	Notes:	She is a Piratographer. Using piratical methods, she is there to help fix the city, having been called in from pittsburgh to come change the city back through the tunnels . That is who they </Text>
@@ -779,13 +779,13 @@ Physical Description:	Looks like Billy Corrigan
 
 	Internal Conflicts:	believes everything is pre ordained- this makes him not try sometimes when he should be 
 
-	External Conflicts:	 Philosoraptor tries to eat him. He and the Ice Queen battle for the soul of Rando 
+	External Conflicts:	 Philosoraptor tries to eat him. He and the Queen of Maybebattle for the soul of Rando 
  	
 
 	Notes:	</Text>
         </Document>
         <Document ID="87">
-            <Title>Death From The Ice Queen </Title>
+            <Title>Death From The Queen of Maybe</Title>
             <Text>She knew even before it happened that it was gong to happen. It was the miserable hell that was being the past, the present and the future simultaneously- when you know all that, it is hard to get out of your own way, especially as the future barreled down at you at an alarming rate. 
 
 She stood atop the Philosoraptors mountain, waiting for her lover to claim her life. The chinook wailed violently, sounding the the sorrows of the ice clad trees like some maniacal wind chime . She was wrapped in a warm thin garment made of the cobwebs of the thousand year spiders. They had clothed the past for as long as any could remember, spinning their almost invisible threads with clock tick precision. No one remembered when they did- they just started and continued, no end to their world. 
@@ -821,14 +821,14 @@ He looked down at his hands and saw the shell of her . He shrugged and tossed it
         <Document ID="44">
             <Title>E-Book</Title>
         </Document>
-        <Document ID="108">
-            <Title>Work </Title>
-        </Document>
         <Document ID="88">
             <Title>Death From Rando</Title>
             <Text>Since he did not know of her before the meeting on top of the grave, her appearance in his dreams frightened him- her brown, sad eyes, the lashes tipped with frost and the fluffing of the air around him.
 
 He had watched the sparkling rockfall , completely shot trough with pyritical veins slide down the mountain. </Text>
+        </Document>
+        <Document ID="108">
+            <Title>Work </Title>
         </Document>
         <Document ID="45">
             <Title>Cover</Title>
@@ -857,8 +857,8 @@ Your dedication here.</Text>
             <Title>Death</Title>
         </Document>
         <Document ID="70">
-            <Title>The Ice Queen </Title>
-            <Text>The Ice Queen 
+            <Title>The Queen of Maybe</Title>
+            <Text>The Queen of Maybe
 
 	Role in Story:	She is History 
 	Occupation:	Holder of all the knowledge ever- hence the ice. Mutable but immutable 
@@ -918,7 +918,7 @@ Physical Description:
         </Document>
         <Document ID="118">
             <Title>Birth</Title>
-            <Text>How did the Ice Queen come to be? What is she in the larger sense of this book? Is she powerful on her own, or does she derive  power from those she </Text>
+            <Text>How did the Queen of Maybecome to be? What is she in the larger sense of this book? Is she powerful on her own, or does she derive  power from those she </Text>
         </Document>
         <Document ID="49">
             <Title>Paperback Novel</Title>
@@ -1271,7 +1271,7 @@ Physical Description:
             <Title>Snake Handler Bike</Title>
         </Document>
         <Document ID="31">
-            <Title>Ice Queen and Decision Making </Title>
+            <Title>Queen of Maybeand Decision Making </Title>
             <Text>Alicia saw Rando and Yumanity stand down among the air whales and the dragons, knowing that their battle would be the end and the beginning. JMQ held her arms behind her painfully, and she was already sick of it. But she had to feign helplessness to let this pay out properly. If she did not, this would not happen. And as one of the holders of history, she had to play by at east some of the rues of the space time continuuum . If he sdid not, things could get even stranger than theu already were. She sighed, and ished to shrug thsi oily little man off her, but this time was what it was. 
 
 
@@ -1512,9 +1512,12 @@ They stood on either side of the bridge of politicians. It stretched across the 
 
 </Text>
         </Document>
+        <Document ID="38">
+            <Title>Manuscript Format</Title>
+        </Document>
         <Document ID="61">
             <Title>Birth</Title>
-            <Text>Rando and the Ice Queen 
+            <Text>Rando and the Queen of Maybe
 
 I have no history, she said. None whatever. There is no long thin line of remembrance and regret that ties me to the earth.
 
@@ -1575,9 +1578,6 @@ What purpose does it serve (in the story itself)
 Who is doing this? 
 When does this happen in the story?
 Where does this happen- </Text>
-        </Document>
-        <Document ID="38">
-            <Title>Manuscript Format</Title>
         </Document>
         <Document ID="62">
             <Title>Character Sketch</Title>
@@ -1727,13 +1727,13 @@ Yumanity lived above the treeling  in a cabin made of the bones of stars. Fallen
 
 After he tired of eating fire he would spit it out again- that was why the moon waxed and waned on this corner of the world . The sun would come out his eyes and jewelled horns, reflecting all that was or could be. He was the true arbiter of the time and space continuum.  
 
-But he was one to play both ends against the middle. The Ice Queen had been his lover, which was why he killed her to begin with. There is no love that does not shatter the object, the subject and the predicate.
+But he was one to play both ends against the middle. The Queen of Maybehad been his lover, which was why he killed her to begin with. There is no love that does not shatter the object, the subject and the predicate.
 
-He and the Ice Queen had loved with all the capacity of the otherworldly- trees had fallen and made new pieces of the landscape- bent doubles the rivers had changed courses over the arguments with the mountains about where the stream of the glacier should go. 
+He and the Queen of Maybehad loved with all the capacity of the otherworldly- trees had fallen and made new pieces of the landscape- bent doubles the rivers had changed courses over the arguments with the mountains about where the stream of the glacier should go. 
 
 Their faces or hands chance meeting in the silence of the thunderless summer storms would rend the  earth, causing chasms wide and angry to open and swallow all for 5 miles on either side. It was that, that feeling that death would finally claim him that caused him to claim her life. Sending her to Hephastues to toil in the heats of hell was a delaying tactic at best. He  would be avenged upon n at some point, when he was not watching, when he had another lover to share his bed. 
 
-The ice queen loved him because his fire matched her own- and she too was indifferent to the lies of the human. They were lesser, not of the world that she existed in, not of use in any way. 
+The Queen of Maybeloved him because his fire matched her own- and she too was indifferent to the lies of the human. They were lesser, not of the world that she existed in, not of use in any way. 
 </Text>
         </Document>
         <Document ID="22">
@@ -2138,7 +2138,7 @@ Physical Description:	Looks like Truman Capote
 
 	Internal Conflicts:	Daddy thought he was a tool. He was right 
 
-	External Conflicts:wants to destroy the hive mind by murdering history /The Ice Queen 	 
+	External Conflicts:wants to destroy the hive mind by murdering history /The Queen of Maybe	 
  	
 
 	Notes:	</Text>
@@ -2149,7 +2149,7 @@ Physical Description:	Looks like Truman Capote
 
 The narrators ultimate goal is to put common sense into the people of the Town of Port. He does this by way of the Sense and Sensibility machine. However, the Port Towners  have been sucked into being stupid by J ellenbogen- who wants them to be stupid so that he can take advantage of them. He sates them with bread, circuses(the philipino twins come from the circus) and religion ( which Yumanity is the god- he’s very much the guy who scares them into being Good and Buying Whatever.) 
 The sacrament is badvice- a thing that they are being fed at brunch as a supposedly organic sweetener made from the husks  
-He has been slowly teaching him the lessons by stealing their bikes, and is in the process of building the machine to take back the city from J ellenbogen , who wants to do the exact opposite . The Ice Queen is sent to distract him from thijs, and she almost gets her way, then she falls for him and decides to join his side. 
+He has been slowly teaching him the lessons by stealing their bikes, and is in the process of building the machine to take back the city from J ellenbogen , who wants to do the exact opposite . The Queen of Maybeis sent to distract him from thijs, and she almost gets her way, then she falls for him and decides to join his side. 
 
 
 Ben and Leah, the young lovers are the catalysts for this- they have been noticing more and more that the world around them is not quite right. They are the kind of people who Do Right. 
